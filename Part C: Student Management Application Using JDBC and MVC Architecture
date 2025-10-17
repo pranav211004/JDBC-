@@ -1,0 +1,8 @@
+StudentApp/
+ ├── model/
+ │     └── Student.java
+ ├── dao/
+ │     └── StudentDAO.java
+ ├── controller/
+ │     └── StudentController.java
+ └── Main.java
